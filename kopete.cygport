@@ -8,3 +8,5 @@ SUMMARY="KDE instant messaging client"
 DESCRIPTION="Part of the KDE networking suite"
 
 PATCH_URI="4.14.3-libiris-cygwin.patch"
+
+REQUIRES="kde-runtime"
